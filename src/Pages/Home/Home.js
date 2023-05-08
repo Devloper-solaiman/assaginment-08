@@ -1,14 +1,16 @@
 import React from 'react';
 import Navbar from '../Shared/Navbar';
 import Banner from './Banner';
-import Review from './Review';
+import Footer from '../Shared/Footer';
+import Rating from './Rating';
 
 const Home = () => {
     return (
         <div>
             <Navbar></Navbar>
             <Banner></Banner>
-            <Review></Review>
+            <Rating></Rating>
+            <Footer></Footer>
 
         </div>
     );
