@@ -1,0 +1,66 @@
+[
+
+    {
+        "_di":1,
+        "name": "Dr. Michael",
+        "aige": 30,
+        "detail": "Lenovo's Yoga 9i Gen 8 delivers leading performance combination of features and design that makes it the premium 2-in-1 laptop to buy.",
+        "img":"https://i.ibb.co/sHzq9Y5/man1.jpg",
+        "sell": 241,
+        "revenue": 10401
+    },
+    {
+        "_di":2,
+        "name": "programmer Sophia",
+        "aige": 31,
+        "detail": " performance combination of features and Lenovo's Yoga 9i Gen 8 delivers leadingdesign that makes it the premium 2-in-1 laptop to buy.",
+        "img":"https://i.ibb.co/gtBnFz7/man2.jpg",
+        "sell": 423,
+        "revenue": 24500
+    },
+    {
+        "_di":3,
+        "name": "professor Luca",
+        "aige": 29,
+        "detail": " of features Lenovo's Yoga 9i Gen 8 delivers leading performance combination of features and design that makes it the premium 2-in-1 laptop to buy.",
+        "img":"https://i.ibb.co/tm3Vrx0/man3.jpg",
+        "sell": 726,
+        "revenue": 67010
+    },
+    {
+        "_di":4,
+        "name": "Liam Michael",
+        "aige": 26,
+        "detail": "design that makes  Lenovo's Yoga 9i Gen 8 delivers leading performance combination of features and it the premium 2-in-1 laptop to buy.",
+        "img":"https://i.ibb.co/qyJr7Fn/man4.jpg",
+        "sell": 529,
+        "revenue": 40405
+    },
+    {
+        "_di":5,
+        "name": "William",
+        "aige": 45,
+        "detail": "2-in-1 laptop to buy performance combination of features and design that makes it the premium  Lenovo's Yoga 9i Gen 8 delivers leading.",
+        "img":"https://i.ibb.co/kmpCysH/man5.jpg",
+        "sell": 601,
+        "revenue": 50900
+    },
+    {
+        "_di":5,
+        "name": "Dr.Benjamin",
+        "aige": 32,
+        "detail": "Lenovo's Yoga 9i Gen 8 delivers leading performance combination of features and design that makes it the premium 2-in-1 laptop to buy.",
+        "img":"https://i.ibb.co/jbPRsjG/man6.jpg",
+        "sell": 601,
+        "revenue": 50900
+    },
+    {
+        "_di":6,
+        "name": "Elijah",
+        "aige": 27,
+        "detail": " Gen 8 delivers leading performance Lenovo's Yoga 9i combination of features and design that makes it the premium 2-in-1 laptop to buy.",
+        "img":"https://i.ibb.co/pWyFsqz/man7.jpg",
+        "sell": 670,
+        "revenue": 61000
+    }
+]
